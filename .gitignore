@@ -166,3 +166,4 @@ mlruns
 
 *.db
 *.parquet
+*.pkl
