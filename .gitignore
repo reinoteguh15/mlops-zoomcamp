@@ -162,5 +162,7 @@ data
 models
 mlruns
 
+.vscode
+
 *.db
 *.parquet
